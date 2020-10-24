@@ -1,0 +1,777 @@
+2020-08-19 08:59:29		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-08-19 08:59:29		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-08-19 08:59:29		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-08-19 08:59:29		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-08-19 08:59:29		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-08-19 08:59:29		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-08-19 08:59:29		New key binding (context "default"): meta-B => /buflist toggle
+2020-08-19 08:59:29		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-08-19 08:59:29		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-08-19 08:59:29		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-08-19 08:59:29		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-08-19 08:59:29		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-08-19 08:59:29		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-08-19 08:59:29		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-08-19 08:59:29		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-08-19 08:59:29		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-19 08:59:48		irc: server added: freenode
+2020-08-19 11:03:28		Options reloaded from sec.conf
+2020-08-19 11:03:28		Bar "input" created
+2020-08-19 11:03:28		Bar "title" created
+2020-08-19 11:03:28		Bar "status" created
+2020-08-19 11:03:28		Bar "nicklist" created
+2020-08-19 11:03:28		Options reloaded from weechat.conf
+2020-08-19 11:03:28		Options reloaded from plugins.conf
+2020-08-19 11:03:28		Options reloaded from charset.conf
+2020-08-19 11:03:28		Options reloaded from logger.conf
+2020-08-19 11:03:28		Options reloaded from exec.conf
+2020-08-19 11:03:28		Options reloaded from trigger.conf
+2020-08-19 11:03:28		Options reloaded from alias.conf
+2020-08-19 11:03:28		Options reloaded from buflist.conf
+2020-08-19 11:03:28		Options reloaded from fifo.conf
+2020-08-19 11:03:28		Options reloaded from xfer.conf
+2020-08-19 11:03:28		Options reloaded from irc.conf
+2020-08-19 11:03:28		Options reloaded from relay.conf
+2020-08-19 11:03:28		Options reloaded from tcl.conf
+2020-08-19 11:03:28		Options reloaded from lua.conf
+2020-08-19 11:03:28		Options reloaded from python.conf
+2020-08-19 11:03:28		Options reloaded from guile.conf
+2020-08-19 11:03:28		Options reloaded from perl.conf
+2020-08-19 11:03:28		Options reloaded from script.conf
+2020-08-19 11:03:28		Options reloaded from fset.conf
+2020-08-19 11:03:28		fifo: pipe closed
+2020-08-19 11:56:06		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-08-19 11:56:06		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-08-19 11:56:06		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-08-19 11:56:06		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-08-19 11:56:06		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-08-19 11:56:06		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-08-19 11:56:06		New key binding (context "default"): meta-B => /buflist toggle
+2020-08-19 11:56:06		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-08-19 11:56:06		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-08-19 11:56:06		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-08-19 11:56:06		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-08-19 11:56:06		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-08-19 11:56:06		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-08-19 11:56:06		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-08-19 11:56:06		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-08-19 11:56:06		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-19 11:56:48		irc: server added: freenode
+2020-08-19 11:57:22		Option changed: irc.server.freenode.nicks = "macinsight,greenPastures,macinsight_,greenPastures_"  (default if null: "jh,jh1,jh2,jh3,jh4")
+2020-08-19 11:57:54		Option changed: irc.server.freenode.username = "macinsight"  (default if null: "jh")
+2020-08-19 11:58:06		Option changed: irc.server.freenode.realname = "macinsight"  (default if null: "")
+2020-08-19 11:58:31		Option changed: irc.server.freenode.sasl_username = "macinsight"  (default if null: "")
+2020-08-19 11:58:44		Option changed: irc.server.freenode.sasl_password = "AzqBa7!!"  (default if null: "")
+2020-08-19 12:00:06		Option changed: irc.server.freenode.autojoin = "#reddit-sysadmin,#archlinux,#archlinux-offtopic"  (default if null: "")
+2020-08-19 12:03:45		Option changed: irc.server.freenode.sasl_password = "Jacob2307!"  (default if null: "")
+2020-08-19 12:03:49		fifo: pipe closed
+2020-08-19 12:03:56		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-19 14:53:04		Options reloaded from sec.conf
+2020-08-19 14:53:04		Options reloaded from weechat.conf
+2020-08-19 14:53:04		Options reloaded from plugins.conf
+2020-08-19 14:53:04		Options reloaded from charset.conf
+2020-08-19 14:53:04		Options reloaded from logger.conf
+2020-08-19 14:53:04		Options reloaded from exec.conf
+2020-08-19 14:53:04		Options reloaded from trigger.conf
+2020-08-19 14:53:04		Options reloaded from alias.conf
+2020-08-19 14:53:04		Options reloaded from buflist.conf
+2020-08-19 14:53:04		Options reloaded from fifo.conf
+2020-08-19 14:53:04		Options reloaded from xfer.conf
+2020-08-19 14:53:04		Options reloaded from irc.conf
+2020-08-19 14:53:04		Options reloaded from relay.conf
+2020-08-19 14:53:04		Options reloaded from tcl.conf
+2020-08-19 14:53:04		Options reloaded from lua.conf
+2020-08-19 14:53:04		Options reloaded from python.conf
+2020-08-19 14:53:04		Options reloaded from guile.conf
+2020-08-19 14:53:04		Options reloaded from perl.conf
+2020-08-19 14:53:04		Options reloaded from script.conf
+2020-08-19 14:53:04		Options reloaded from fset.conf
+2020-08-19 14:53:04		fifo: pipe closed
+2020-08-19 21:55:38		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-19 22:08:44		Option changed: irc.server.freenode.autoconnect = on  (default if null: off)
+2020-08-19 22:08:58		[server] (irc.conf)
+2020-08-19 22:08:58		  irc.server.freenode.autoconnect = on  (default if null: off)
+2020-08-19 22:08:58		1 option (matching with "irc.server.freenode.autoconnect")
+2020-08-19 22:09:00		Options reloaded from sec.conf
+2020-08-19 22:09:00		Options reloaded from weechat.conf
+2020-08-19 22:09:00		Options reloaded from plugins.conf
+2020-08-19 22:09:00		Options reloaded from charset.conf
+2020-08-19 22:09:00		Options reloaded from logger.conf
+2020-08-19 22:09:00		Options reloaded from exec.conf
+2020-08-19 22:09:00		Options reloaded from trigger.conf
+2020-08-19 22:09:00		Options reloaded from alias.conf
+2020-08-19 22:09:00		Options reloaded from buflist.conf
+2020-08-19 22:09:00		Options reloaded from fifo.conf
+2020-08-19 22:09:00		Options reloaded from xfer.conf
+2020-08-19 22:09:00		Options reloaded from irc.conf
+2020-08-19 22:09:00		Options reloaded from relay.conf
+2020-08-19 22:09:00		Options reloaded from tcl.conf
+2020-08-19 22:09:00		Options reloaded from lua.conf
+2020-08-19 22:09:00		Options reloaded from python.conf
+2020-08-19 22:09:00		Options reloaded from guile.conf
+2020-08-19 22:09:00		Options reloaded from perl.conf
+2020-08-19 22:09:00		Options reloaded from script.conf
+2020-08-19 22:09:00		Options reloaded from fset.conf
+2020-08-19 22:09:00		fifo: pipe closed
+2020-08-19 22:09:01		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 01:26:12		Options reloaded from sec.conf
+2020-08-20 01:26:12		Options reloaded from weechat.conf
+2020-08-20 01:26:12		Options reloaded from plugins.conf
+2020-08-20 01:26:12		Options reloaded from charset.conf
+2020-08-20 01:26:12		Options reloaded from logger.conf
+2020-08-20 01:26:12		Options reloaded from exec.conf
+2020-08-20 01:26:12		Options reloaded from trigger.conf
+2020-08-20 01:26:12		Options reloaded from alias.conf
+2020-08-20 01:26:12		Options reloaded from buflist.conf
+2020-08-20 01:26:12		Options reloaded from fifo.conf
+2020-08-20 01:26:12		Options reloaded from xfer.conf
+2020-08-20 01:26:12		Options reloaded from irc.conf
+2020-08-20 01:26:12		Options reloaded from relay.conf
+2020-08-20 01:26:12		Options reloaded from tcl.conf
+2020-08-20 01:26:12		Options reloaded from lua.conf
+2020-08-20 01:26:12		Options reloaded from python.conf
+2020-08-20 01:26:12		Options reloaded from guile.conf
+2020-08-20 01:26:12		Options reloaded from perl.conf
+2020-08-20 01:26:12		Options reloaded from script.conf
+2020-08-20 01:26:12		Options reloaded from fset.conf
+2020-08-20 01:26:12		fifo: pipe closed
+2020-08-20 01:26:16		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 01:26:33		Options reloaded from sec.conf
+2020-08-20 01:26:33		Options reloaded from weechat.conf
+2020-08-20 01:26:33		Options reloaded from plugins.conf
+2020-08-20 01:26:33		Options reloaded from charset.conf
+2020-08-20 01:26:33		Options reloaded from logger.conf
+2020-08-20 01:26:33		Options reloaded from exec.conf
+2020-08-20 01:26:33		Options reloaded from trigger.conf
+2020-08-20 01:26:33		Options reloaded from alias.conf
+2020-08-20 01:26:33		Options reloaded from buflist.conf
+2020-08-20 01:26:33		Options reloaded from fifo.conf
+2020-08-20 01:26:33		Options reloaded from xfer.conf
+2020-08-20 01:26:33		Options reloaded from irc.conf
+2020-08-20 01:26:33		Options reloaded from relay.conf
+2020-08-20 01:26:33		Options reloaded from tcl.conf
+2020-08-20 01:26:33		Options reloaded from lua.conf
+2020-08-20 01:26:33		Options reloaded from python.conf
+2020-08-20 01:26:33		Options reloaded from guile.conf
+2020-08-20 01:26:33		Options reloaded from perl.conf
+2020-08-20 01:26:33		Options reloaded from script.conf
+2020-08-20 01:26:33		Options reloaded from fset.conf
+2020-08-20 01:26:33		fifo: pipe closed
+2020-08-20 10:05:23		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 10:15:16		Options reloaded from sec.conf
+2020-08-20 10:15:16		Options reloaded from weechat.conf
+2020-08-20 10:15:16		Options reloaded from plugins.conf
+2020-08-20 10:15:16		Options reloaded from charset.conf
+2020-08-20 10:15:16		Options reloaded from logger.conf
+2020-08-20 10:15:16		Options reloaded from exec.conf
+2020-08-20 10:15:16		Options reloaded from trigger.conf
+2020-08-20 10:15:16		Options reloaded from alias.conf
+2020-08-20 10:15:16		Options reloaded from buflist.conf
+2020-08-20 10:15:16		Options reloaded from fifo.conf
+2020-08-20 10:15:16		Options reloaded from xfer.conf
+2020-08-20 10:15:16		Options reloaded from irc.conf
+2020-08-20 10:15:16		Options reloaded from relay.conf
+2020-08-20 10:15:16		Options reloaded from tcl.conf
+2020-08-20 10:15:16		Options reloaded from lua.conf
+2020-08-20 10:15:16		Options reloaded from python.conf
+2020-08-20 10:15:16		Options reloaded from guile.conf
+2020-08-20 10:15:16		Options reloaded from perl.conf
+2020-08-20 10:15:16		Options reloaded from script.conf
+2020-08-20 10:15:16		Options reloaded from fset.conf
+2020-08-20 10:15:16		fifo: pipe closed
+2020-08-20 12:07:08		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 13:04:45		Options reloaded from sec.conf
+2020-08-20 13:04:45		Options reloaded from weechat.conf
+2020-08-20 13:04:45		Options reloaded from plugins.conf
+2020-08-20 13:04:45		Options reloaded from charset.conf
+2020-08-20 13:04:45		Options reloaded from logger.conf
+2020-08-20 13:04:45		Options reloaded from exec.conf
+2020-08-20 13:04:45		Options reloaded from trigger.conf
+2020-08-20 13:04:45		Options reloaded from alias.conf
+2020-08-20 13:04:45		Options reloaded from buflist.conf
+2020-08-20 13:04:45		Options reloaded from fifo.conf
+2020-08-20 13:04:45		Options reloaded from xfer.conf
+2020-08-20 13:04:45		Options reloaded from irc.conf
+2020-08-20 13:04:45		Options reloaded from relay.conf
+2020-08-20 13:04:45		Options reloaded from tcl.conf
+2020-08-20 13:04:45		Options reloaded from lua.conf
+2020-08-20 13:04:45		Options reloaded from python.conf
+2020-08-20 13:04:45		Options reloaded from guile.conf
+2020-08-20 13:04:45		Options reloaded from perl.conf
+2020-08-20 13:04:45		Options reloaded from script.conf
+2020-08-20 13:04:45		Options reloaded from fset.conf
+2020-08-20 13:04:45		fifo: pipe closed
+2020-08-20 20:06:51		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 21:50:38		Options reloaded from sec.conf
+2020-08-20 21:50:38		Options reloaded from weechat.conf
+2020-08-20 21:50:38		Options reloaded from plugins.conf
+2020-08-20 21:50:38		Options reloaded from charset.conf
+2020-08-20 21:50:38		Options reloaded from logger.conf
+2020-08-20 21:50:38		Options reloaded from exec.conf
+2020-08-20 21:50:38		Options reloaded from trigger.conf
+2020-08-20 21:50:38		Options reloaded from alias.conf
+2020-08-20 21:50:38		Options reloaded from buflist.conf
+2020-08-20 21:50:38		Options reloaded from fifo.conf
+2020-08-20 21:50:38		Options reloaded from xfer.conf
+2020-08-20 21:50:38		Options reloaded from irc.conf
+2020-08-20 21:50:38		Options reloaded from relay.conf
+2020-08-20 21:50:38		Options reloaded from tcl.conf
+2020-08-20 21:50:38		Options reloaded from lua.conf
+2020-08-20 21:50:38		Options reloaded from python.conf
+2020-08-20 21:50:38		Options reloaded from guile.conf
+2020-08-20 21:50:38		Options reloaded from perl.conf
+2020-08-20 21:50:38		Options reloaded from script.conf
+2020-08-20 21:50:38		Options reloaded from fset.conf
+2020-08-20 21:50:38		fifo: pipe closed
+2020-08-20 21:52:09		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 22:28:59		fifo: pipe closed
+2020-08-20 22:29:05		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-21 00:17:15		fifo: pipe closed
+2020-08-21 00:17:19		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-21 00:17:28		fifo: pipe closed
+2020-08-21 00:17:30		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-21 00:17:34	=!=	You can not write text in this buffer
+2020-08-21 00:17:36		fifo: pipe closed
+2020-08-21 12:58:56		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+                                       2020-08-22 13:56:52		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-22 15:14:28		Options reloaded from sec.conf
+2020-08-22 15:14:28		Options reloaded from weechat.conf
+2020-08-22 15:14:28		Options reloaded from plugins.conf
+2020-08-22 15:14:28		Options reloaded from charset.conf
+2020-08-22 15:14:28		Options reloaded from logger.conf
+2020-08-22 15:14:28		Options reloaded from exec.conf
+2020-08-22 15:14:28		Options reloaded from trigger.conf
+2020-08-22 15:14:28		Options reloaded from alias.conf
+2020-08-22 15:14:28		Options reloaded from buflist.conf
+2020-08-22 15:14:28		Options reloaded from fifo.conf
+2020-08-22 15:14:28		Options reloaded from xfer.conf
+2020-08-22 15:14:28		Options reloaded from irc.conf
+2020-08-22 15:14:28		Options reloaded from relay.conf
+2020-08-22 15:14:28		Options reloaded from tcl.conf
+2020-08-22 15:14:28		Options reloaded from lua.conf
+2020-08-22 15:14:28		Options reloaded from python.conf
+2020-08-22 15:14:28		Options reloaded from guile.conf
+2020-08-22 15:14:28		Options reloaded from perl.conf
+2020-08-22 15:14:28		Options reloaded from script.conf
+2020-08-22 15:14:28		Options reloaded from fset.conf
+2020-08-22 15:14:28		fifo: pipe closed
+2020-08-22 21:56:43		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-22 21:56:53		Options reloaded from sec.conf
+2020-08-22 21:56:53		Options reloaded from weechat.conf
+2020-08-22 21:56:53		Options reloaded from plugins.conf
+2020-08-22 21:56:53		Options reloaded from charset.conf
+2020-08-22 21:56:53		Options reloaded from logger.conf
+2020-08-22 21:56:53		Options reloaded from exec.conf
+2020-08-22 21:56:53		Options reloaded from trigger.conf
+2020-08-22 21:56:53		Options reloaded from alias.conf
+2020-08-22 21:56:53		Options reloaded from buflist.conf
+2020-08-22 21:56:53		Options reloaded from fifo.conf
+2020-08-22 21:56:53		Options reloaded from xfer.conf
+2020-08-22 21:56:53		Options reloaded from irc.conf
+2020-08-22 21:56:53		Options reloaded from relay.conf
+2020-08-22 21:56:53		Options reloaded from tcl.conf
+2020-08-22 21:56:53		Options reloaded from lua.conf
+2020-08-22 21:56:53		Options reloaded from python.conf
+2020-08-22 21:56:53		Options reloaded from guile.conf
+2020-08-22 21:56:53		Options reloaded from perl.conf
+2020-08-22 21:56:53		Options reloaded from script.conf
+2020-08-22 21:56:53		Options reloaded from fset.conf
+2020-08-22 21:56:53		fifo: pipe closed
+2020-08-22 21:57:08		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-22 21:57:24		Options reloaded from sec.conf
+2020-08-22 21:57:24		Options reloaded from weechat.conf
+2020-08-22 21:57:24		Options reloaded from plugins.conf
+2020-08-22 21:57:24		Options reloaded from charset.conf
+2020-08-22 21:57:24		Options reloaded from logger.conf
+2020-08-22 21:57:24		Options reloaded from exec.conf
+2020-08-22 21:57:24		Options reloaded from trigger.conf
+2020-08-22 21:57:24		Options reloaded from alias.conf
+2020-08-22 21:57:24		Options reloaded from buflist.conf
+2020-08-22 21:57:24		Options reloaded from fifo.conf
+2020-08-22 21:57:24		Options reloaded from xfer.conf
+2020-08-22 21:57:24		Options reloaded from irc.conf
+2020-08-22 21:57:24		Options reloaded from relay.conf
+2020-08-22 21:57:24		Options reloaded from tcl.conf
+2020-08-22 21:57:24		Options reloaded from lua.conf
+2020-08-22 21:57:24		Options reloaded from python.conf
+2020-08-22 21:57:24		Options reloaded from guile.conf
+2020-08-22 21:57:24		Options reloaded from perl.conf
+2020-08-22 21:57:24		Options reloaded from script.conf
+2020-08-22 21:57:24		Options reloaded from fset.conf
+2020-08-22 21:57:24		fifo: pipe closed
+2020-08-22 23:43:33		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+                                       2020-08-23 11:19:34		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-23 22:53:15		Options reloaded from sec.conf
+2020-08-23 22:53:15		Options reloaded from weechat.conf
+2020-08-23 22:53:15		Options reloaded from plugins.conf
+2020-08-23 22:53:15		Options reloaded from charset.conf
+2020-08-23 22:53:15		Options reloaded from logger.conf
+2020-08-23 22:53:15		Options reloaded from exec.conf
+2020-08-23 22:53:15		Options reloaded from trigger.conf
+2020-08-23 22:53:15		Options reloaded from alias.conf
+2020-08-23 22:53:15		Options reloaded from buflist.conf
+2020-08-23 22:53:15		Options reloaded from fifo.conf
+2020-08-23 22:53:15		Options reloaded from xfer.conf
+2020-08-23 22:53:15		Options reloaded from irc.conf
+2020-08-23 22:53:15		Options reloaded from relay.conf
+2020-08-23 22:53:15		Options reloaded from tcl.conf
+2020-08-23 22:53:15		Options reloaded from lua.conf
+2020-08-23 22:53:15		Options reloaded from python.conf
+2020-08-23 22:53:15		Options reloaded from guile.conf
+2020-08-23 22:53:15		Options reloaded from perl.conf
+2020-08-23 22:53:15		Options reloaded from script.conf
+2020-08-23 22:53:15		Options reloaded from fset.conf
+2020-08-23 22:53:15		fifo: pipe closed
+2020-08-24 12:50:40		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-24 12:50:41		Options reloaded from sec.conf
+2020-08-24 12:50:41		Options reloaded from weechat.conf
+2020-08-24 12:50:41		Options reloaded from plugins.conf
+2020-08-24 12:50:41		Options reloaded from charset.conf
+2020-08-24 12:50:41		Options reloaded from logger.conf
+2020-08-24 12:50:41		Options reloaded from exec.conf
+2020-08-24 12:50:41		Options reloaded from trigger.conf
+2020-08-24 12:50:41		Options reloaded from alias.conf
+2020-08-24 12:50:41		Options reloaded from buflist.conf
+2020-08-24 12:50:41		Options reloaded from fifo.conf
+2020-08-24 12:50:41		Options reloaded from xfer.conf
+2020-08-24 12:50:41		Options reloaded from irc.conf
+2020-08-24 12:50:41		Options reloaded from relay.conf
+2020-08-24 12:50:41		Options reloaded from tcl.conf
+2020-08-24 12:50:41		Options reloaded from lua.conf
+2020-08-24 12:50:41		Options reloaded from python.conf
+2020-08-24 12:50:41		Options reloaded from guile.conf
+2020-08-24 12:50:41		Options reloaded from perl.conf
+2020-08-24 12:50:41		Options reloaded from script.conf
+2020-08-24 12:50:41		Options reloaded from fset.conf
+2020-08-24 12:50:41		fifo: pipe closed
+2020-08-24 13:04:08		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-24 13:12:36		fifo: pipe closed
+2020-08-24 13:16:39		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-24 13:35:08	=!=	irc: already connected to server "freenode"!
+2020-08-24 13:48:32		Options reloaded from sec.conf
+2020-08-24 13:48:32		Options reloaded from weechat.conf
+2020-08-24 13:48:32		Options reloaded from plugins.conf
+2020-08-24 13:48:32		Options reloaded from charset.conf
+2020-08-24 13:48:32		Options reloaded from logger.conf
+2020-08-24 13:48:32		Options reloaded from exec.conf
+2020-08-24 13:48:32		Options reloaded from trigger.conf
+2020-08-24 13:48:32		Options reloaded from alias.conf
+2020-08-24 13:48:32		Options reloaded from buflist.conf
+2020-08-24 13:48:32		Options reloaded from fifo.conf
+2020-08-24 13:48:32		Options reloaded from xfer.conf
+2020-08-24 13:48:32		Options reloaded from irc.conf
+2020-08-24 13:48:32		Options reloaded from relay.conf
+2020-08-24 13:48:32		Options reloaded from tcl.conf
+2020-08-24 13:48:32		Options reloaded from lua.conf
+2020-08-24 13:48:32		Options reloaded from python.conf
+2020-08-24 13:48:32		Options reloaded from guile.conf
+2020-08-24 13:48:32		Options reloaded from perl.conf
+2020-08-24 13:48:32		Options reloaded from script.conf
+2020-08-24 13:48:32		Options reloaded from fset.conf
+2020-08-24 13:48:32		fifo: pipe closed
+2020-08-24 13:49:09		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-24 14:57:47		Options reloaded from sec.conf
+2020-08-24 14:57:47		Options reloaded from weechat.conf
+2020-08-24 14:57:47		Options reloaded from plugins.conf
+2020-08-24 14:57:47		Options reloaded from charset.conf
+2020-08-24 14:57:47		Options reloaded from logger.conf
+2020-08-24 14:57:47		Options reloaded from exec.conf
+2020-08-24 14:57:47		Options reloaded from trigger.conf
+2020-08-24 14:57:47		Options reloaded from alias.conf
+2020-08-24 14:57:47		Options reloaded from buflist.conf
+2020-08-24 14:57:47		Options reloaded from fifo.conf
+2020-08-24 14:57:47		Options reloaded from xfer.conf
+2020-08-24 14:57:47		Options reloaded from irc.conf
+2020-08-24 14:57:47		Options reloaded from relay.conf
+2020-08-24 14:57:47		Options reloaded from tcl.conf
+2020-08-24 14:57:47		Options reloaded from lua.conf
+2020-08-24 14:57:47		Options reloaded from python.conf
+2020-08-24 14:57:47		Options reloaded from guile.conf
+2020-08-24 14:57:47		Options reloaded from perl.conf
+2020-08-24 14:57:47		Options reloaded from script.conf
+2020-08-24 14:57:47		Options reloaded from fset.conf
+2020-08-24 14:57:47		fifo: pipe closed
+2020-08-25 07:30:45		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-25 08:49:18		fifo: pipe closed
+2020-08-25 11:15:38		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-25 19:20:01		Options reloaded from sec.conf
+2020-08-25 19:20:01		Options reloaded from weechat.conf
+2020-08-25 19:20:01		Options reloaded from plugins.conf
+2020-08-25 19:20:01		Options reloaded from charset.conf
+2020-08-25 19:20:01		Options reloaded from logger.conf
+2020-08-25 19:20:01		Options reloaded from exec.conf
+2020-08-25 19:20:01		Options reloaded from trigger.conf
+2020-08-25 19:20:01		Options reloaded from alias.conf
+2020-08-25 19:20:01		Options reloaded from buflist.conf
+2020-08-25 19:20:01		Options reloaded from fifo.conf
+2020-08-25 19:20:01		Options reloaded from xfer.conf
+2020-08-25 19:20:01		Options reloaded from irc.conf
+2020-08-25 19:20:01		Options reloaded from relay.conf
+2020-08-25 19:20:01		Options reloaded from tcl.conf
+2020-08-25 19:20:01		Options reloaded from lua.conf
+2020-08-25 19:20:01		Options reloaded from python.conf
+2020-08-25 19:20:01		Options reloaded from guile.conf
+2020-08-25 19:20:01		Options reloaded from perl.conf
+2020-08-25 19:20:01		Options reloaded from script.conf
+2020-08-25 19:20:01		Options reloaded from fset.conf
+2020-08-25 19:20:01		fifo: pipe closed
+2020-08-26 14:01:46		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-26 20:22:50		Options reloaded from sec.conf
+2020-08-26 20:22:50		Options reloaded from weechat.conf
+2020-08-26 20:22:50		Options reloaded from plugins.conf
+2020-08-26 20:22:50		Options reloaded from charset.conf
+2020-08-26 20:22:50		Options reloaded from logger.conf
+2020-08-26 20:22:50		Options reloaded from exec.conf
+2020-08-26 20:22:50		Options reloaded from trigger.conf
+2020-08-26 20:22:50		Options reloaded from alias.conf
+2020-08-26 20:22:50		Options reloaded from buflist.conf
+2020-08-26 20:22:50		Options reloaded from fifo.conf
+2020-08-26 20:22:50		Options reloaded from xfer.conf
+2020-08-26 20:22:50		Options reloaded from irc.conf
+2020-08-26 20:22:50		Options reloaded from relay.conf
+2020-08-26 20:22:50		Options reloaded from tcl.conf
+2020-08-26 20:22:50		Options reloaded from lua.conf
+2020-08-26 20:22:50		Options reloaded from python.conf
+2020-08-26 20:22:50		Options reloaded from guile.conf
+2020-08-26 20:22:50		Options reloaded from perl.conf
+2020-08-26 20:22:50		Options reloaded from script.conf
+2020-08-26 20:22:50		Options reloaded from fset.conf
+2020-08-26 20:22:50		fifo: pipe closed
+2020-08-27 11:17:20		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-27 17:52:17		Options reloaded from sec.conf
+2020-08-27 17:52:17		Options reloaded from weechat.conf
+2020-08-27 17:52:17		Options reloaded from plugins.conf
+2020-08-27 17:52:17		Options reloaded from charset.conf
+2020-08-27 17:52:17		Options reloaded from logger.conf
+2020-08-27 17:52:17		Options reloaded from exec.conf
+2020-08-27 17:52:17		Options reloaded from trigger.conf
+2020-08-27 17:52:17		Options reloaded from alias.conf
+2020-08-27 17:52:17		Options reloaded from buflist.conf
+2020-08-27 17:52:17		Options reloaded from fifo.conf
+2020-08-27 17:52:17		Options reloaded from xfer.conf
+2020-08-27 17:52:17		Options reloaded from irc.conf
+2020-08-27 17:52:17		Options reloaded from relay.conf
+2020-08-27 17:52:17		Options reloaded from tcl.conf
+2020-08-27 17:52:17		Options reloaded from lua.conf
+2020-08-27 17:52:17		Options reloaded from python.conf
+2020-08-27 17:52:17		Options reloaded from guile.conf
+2020-08-27 17:52:17		Options reloaded from perl.conf
+2020-08-27 17:52:17		Options reloaded from script.conf
+2020-08-27 17:52:17		Options reloaded from fset.conf
+2020-08-27 17:52:17		fifo: pipe closed
+2020-08-31 02:24:57		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-31 11:24:34		fifo: pipe closed
+2020-09-01 10:56:57		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-01 18:57:27		Options reloaded from sec.conf
+2020-09-01 18:57:27		Options reloaded from weechat.conf
+2020-09-01 18:57:27		Options reloaded from plugins.conf
+2020-09-01 18:57:27		Options reloaded from charset.conf
+2020-09-01 18:57:27		Options reloaded from logger.conf
+2020-09-01 18:57:27		Options reloaded from exec.conf
+2020-09-01 18:57:27		Options reloaded from trigger.conf
+2020-09-01 18:57:27		Options reloaded from alias.conf
+2020-09-01 18:57:27		Options reloaded from buflist.conf
+2020-09-01 18:57:27		Options reloaded from fifo.conf
+2020-09-01 18:57:27		Options reloaded from xfer.conf
+2020-09-01 18:57:27		Options reloaded from irc.conf
+2020-09-01 18:57:27		Options reloaded from relay.conf
+2020-09-01 18:57:27		Options reloaded from tcl.conf
+2020-09-01 18:57:27		Options reloaded from lua.conf
+2020-09-01 18:57:27		Options reloaded from python.conf
+2020-09-01 18:57:27		Options reloaded from guile.conf
+2020-09-01 18:57:27		Options reloaded from perl.conf
+2020-09-01 18:57:27		Options reloaded from script.conf
+2020-09-01 18:57:27		Options reloaded from fset.conf
+2020-09-01 18:57:28		fifo: pipe closed
+2020-09-02 12:11:59		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-02 18:27:05		Options reloaded from sec.conf
+2020-09-02 18:27:05		Options reloaded from weechat.conf
+2020-09-02 18:27:05		Options reloaded from plugins.conf
+2020-09-02 18:27:05		Options reloaded from charset.conf
+2020-09-02 18:27:05		Options reloaded from logger.conf
+2020-09-02 18:27:05		Options reloaded from exec.conf
+2020-09-02 18:27:05		Options reloaded from trigger.conf
+2020-09-02 18:27:05		Options reloaded from alias.conf
+2020-09-02 18:27:05		Options reloaded from buflist.conf
+2020-09-02 18:27:05		Options reloaded from fifo.conf
+2020-09-02 18:27:05		Options reloaded from xfer.conf
+2020-09-02 18:27:05		Options reloaded from irc.conf
+2020-09-02 18:27:05		Options reloaded from relay.conf
+2020-09-02 18:27:05		Options reloaded from tcl.conf
+2020-09-02 18:27:05		Options reloaded from lua.conf
+2020-09-02 18:27:05		Options reloaded from python.conf
+2020-09-02 18:27:05		Options reloaded from guile.conf
+2020-09-02 18:27:05		Options reloaded from perl.conf
+2020-09-02 18:27:05		Options reloaded from script.conf
+2020-09-02 18:27:05		Options reloaded from fset.conf
+2020-09-02 18:27:05		fifo: pipe closed
+2020-09-03 22:13:03		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-04 10:52:16		fifo: pipe closed
+2020-09-04 11:44:10		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-04 13:10:26	=!=	Error: unknown command "/back" (type /help for help)
+2020-09-04 17:21:38		Options reloaded from sec.conf
+2020-09-04 17:21:38		Options reloaded from weechat.conf
+2020-09-04 17:21:38		Options reloaded from plugins.conf
+2020-09-04 17:21:38		Options reloaded from charset.conf
+2020-09-04 17:21:38		Options reloaded from logger.conf
+2020-09-04 17:21:38		Options reloaded from exec.conf
+2020-09-04 17:21:38		Options reloaded from trigger.conf
+2020-09-04 17:21:38		Options reloaded from alias.conf
+2020-09-04 17:21:38		Options reloaded from buflist.conf
+2020-09-04 17:21:38		Options reloaded from fifo.conf
+2020-09-04 17:21:38		Options reloaded from xfer.conf
+2020-09-04 17:21:38		Options reloaded from irc.conf
+2020-09-04 17:21:38		Options reloaded from relay.conf
+2020-09-04 17:21:38		Options reloaded from tcl.conf
+2020-09-04 17:21:38		Options reloaded from lua.conf
+2020-09-04 17:21:38		Options reloaded from python.conf
+2020-09-04 17:21:38		Options reloaded from guile.conf
+2020-09-04 17:21:38		Options reloaded from perl.conf
+2020-09-04 17:21:38		Options reloaded from script.conf
+2020-09-04 17:21:38		Options reloaded from fset.conf
+2020-09-04 17:21:39		fifo: pipe closed
+2020-09-07 11:12:48		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-07 17:39:58		fifo: pipe closed
+2020-09-08 11:18:49		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-08 19:07:41		fifo: pipe closed
+2020-09-09 11:05:12		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-09 16:18:28		fifo: pipe closed
+2020-09-10 10:33:05		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-10 12:59:02		Options reloaded from sec.conf
+2020-09-10 12:59:02		Options reloaded from weechat.conf
+2020-09-10 12:59:02		Options reloaded from plugins.conf
+2020-09-10 12:59:02		Options reloaded from charset.conf
+2020-09-10 12:59:02		Options reloaded from logger.conf
+2020-09-10 12:59:02		Options reloaded from exec.conf
+2020-09-10 12:59:02		Options reloaded from trigger.conf
+2020-09-10 12:59:02		Options reloaded from alias.conf
+2020-09-10 12:59:02		Options reloaded from buflist.conf
+2020-09-10 12:59:02		Options reloaded from fifo.conf
+2020-09-10 12:59:02		Options reloaded from xfer.conf
+2020-09-10 12:59:02		Options reloaded from irc.conf
+2020-09-10 12:59:02		Options reloaded from relay.conf
+2020-09-10 12:59:02		Options reloaded from tcl.conf
+2020-09-10 12:59:02		Options reloaded from lua.conf
+2020-09-10 12:59:02		Options reloaded from python.conf
+2020-09-10 12:59:02		Options reloaded from guile.conf
+2020-09-10 12:59:02		Options reloaded from perl.conf
+2020-09-10 12:59:02		Options reloaded from script.conf
+2020-09-10 12:59:02		Options reloaded from fset.conf
+2020-09-10 12:59:02		fifo: pipe closed
+2020-09-10 18:16:00		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-10 18:16:18	=!=	irc: unable to add temporary server "free" because the addition of temporary servers with command /connect is currently disabled
+2020-09-10 18:16:18	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2020-09-10 19:39:20		Options reloaded from sec.conf
+2020-09-10 19:39:20		Options reloaded from weechat.conf
+2020-09-10 19:39:20		Options reloaded from plugins.conf
+2020-09-10 19:39:20		Options reloaded from charset.conf
+2020-09-10 19:39:20		Options reloaded from logger.conf
+2020-09-10 19:39:20		Options reloaded from exec.conf
+2020-09-10 19:39:20		Options reloaded from trigger.conf
+2020-09-10 19:39:20		Options reloaded from alias.conf
+2020-09-10 19:39:20		Options reloaded from buflist.conf
+2020-09-10 19:39:20		Options reloaded from fifo.conf
+2020-09-10 19:39:20		Options reloaded from xfer.conf
+2020-09-10 19:39:20		Options reloaded from irc.conf
+2020-09-10 19:39:20		Options reloaded from relay.conf
+2020-09-10 19:39:20		Options reloaded from tcl.conf
+2020-09-10 19:39:20		Options reloaded from lua.conf
+2020-09-10 19:39:20		Options reloaded from python.conf
+2020-09-10 19:39:20		Options reloaded from guile.conf
+2020-09-10 19:39:20		Options reloaded from perl.conf
+2020-09-10 19:39:20		Options reloaded from script.conf
+2020-09-10 19:39:20		Options reloaded from fset.conf
+2020-09-10 19:39:20		fifo: pipe closed
+2020-09-12 01:09:51		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-12 01:27:22		Options reloaded from sec.conf
+2020-09-12 01:27:22		Options reloaded from weechat.conf
+2020-09-12 01:27:22		Options reloaded from plugins.conf
+2020-09-12 01:27:22		Options reloaded from charset.conf
+2020-09-12 01:27:22		Options reloaded from logger.conf
+2020-09-12 01:27:22		Options reloaded from exec.conf
+2020-09-12 01:27:22		Options reloaded from trigger.conf
+2020-09-12 01:27:22		Options reloaded from alias.conf
+2020-09-12 01:27:22		Options reloaded from buflist.conf
+2020-09-12 01:27:22		Options reloaded from fifo.conf
+2020-09-12 01:27:22		Options reloaded from xfer.conf
+2020-09-12 01:27:22		Options reloaded from irc.conf
+2020-09-12 01:27:22		Options reloaded from relay.conf
+2020-09-12 01:27:22		Options reloaded from tcl.conf
+2020-09-12 01:27:22		Options reloaded from lua.conf
+2020-09-12 01:27:22		Options reloaded from python.conf
+2020-09-12 01:27:22		Options reloaded from guile.conf
+2020-09-12 01:27:22		Options reloaded from perl.conf
+2020-09-12 01:27:22		Options reloaded from script.conf
+2020-09-12 01:27:22		Options reloaded from fset.conf
+2020-09-12 01:27:22		fifo: pipe closed
+2020-09-14 14:11:19		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-14 17:04:40		fifo: pipe closed
+2020-09-15 21:00:02		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-16 00:26:12		Options reloaded from sec.conf
+2020-09-16 00:26:12		Options reloaded from weechat.conf
+2020-09-16 00:26:12		Options reloaded from plugins.conf
+2020-09-16 00:26:12		Options reloaded from charset.conf
+2020-09-16 00:26:12		Options reloaded from logger.conf
+2020-09-16 00:26:12		Options reloaded from exec.conf
+2020-09-16 00:26:12		Options reloaded from trigger.conf
+2020-09-16 00:26:12		Options reloaded from alias.conf
+2020-09-16 00:26:12		Options reloaded from buflist.conf
+2020-09-16 00:26:12		Options reloaded from fifo.conf
+2020-09-16 00:26:12		Options reloaded from xfer.conf
+2020-09-16 00:26:12		Options reloaded from irc.conf
+2020-09-16 00:26:12		Options reloaded from relay.conf
+2020-09-16 00:26:12		Options reloaded from tcl.conf
+2020-09-16 00:26:12		Options reloaded from lua.conf
+2020-09-16 00:26:12		Options reloaded from python.conf
+2020-09-16 00:26:12		Options reloaded from guile.conf
+2020-09-16 00:26:12		Options reloaded from perl.conf
+2020-09-16 00:26:12		Options reloaded from script.conf
+2020-09-16 00:26:12		Options reloaded from fset.conf
+2020-09-16 00:26:12		fifo: pipe closed
+2020-09-17 11:47:26		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-17 15:28:21		Options reloaded from sec.conf
+2020-09-17 15:28:21		Options reloaded from weechat.conf
+2020-09-17 15:28:21		Options reloaded from plugins.conf
+2020-09-17 15:28:21		Options reloaded from charset.conf
+2020-09-17 15:28:21		Options reloaded from logger.conf
+2020-09-17 15:28:21		Options reloaded from exec.conf
+2020-09-17 15:28:21		Options reloaded from trigger.conf
+2020-09-17 15:28:21		Options reloaded from alias.conf
+2020-09-17 15:28:21		Options reloaded from buflist.conf
+2020-09-17 15:28:21		Options reloaded from fifo.conf
+2020-09-17 15:28:21		Options reloaded from xfer.conf
+2020-09-17 15:28:21		Options reloaded from irc.conf
+2020-09-17 15:28:21		Options reloaded from relay.conf
+2020-09-17 15:28:21		Options reloaded from tcl.conf
+2020-09-17 15:28:21		Options reloaded from lua.conf
+2020-09-17 15:28:21		Options reloaded from python.conf
+2020-09-17 15:28:21		Options reloaded from guile.conf
+2020-09-17 15:28:21		Options reloaded from perl.conf
+2020-09-17 15:28:21		Options reloaded from script.conf
+2020-09-17 15:28:21		Options reloaded from fset.conf
+2020-09-17 15:28:21		fifo: pipe closed
+2020-09-22 15:55:29		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-23 20:08:30		Options reloaded from sec.conf
+2020-09-23 20:08:30		Options reloaded from weechat.conf
+2020-09-23 20:08:30		Options reloaded from plugins.conf
+2020-09-23 20:08:30		Options reloaded from charset.conf
+2020-09-23 20:08:30		Options reloaded from logger.conf
+2020-09-23 20:08:30		Options reloaded from exec.conf
+2020-09-23 20:08:30		Options reloaded from trigger.conf
+2020-09-23 20:08:30		Options reloaded from alias.conf
+2020-09-23 20:08:30		Options reloaded from buflist.conf
+2020-09-23 20:08:30		Options reloaded from fifo.conf
+2020-09-23 20:08:30		Options reloaded from xfer.conf
+2020-09-23 20:08:30		Options reloaded from irc.conf
+2020-09-23 20:08:30		Options reloaded from relay.conf
+2020-09-23 20:08:30		Options reloaded from tcl.conf
+2020-09-23 20:08:30		Options reloaded from lua.conf
+2020-09-23 20:08:30		Options reloaded from python.conf
+2020-09-23 20:08:30		Options reloaded from guile.conf
+2020-09-23 20:08:30		Options reloaded from perl.conf
+2020-09-23 20:08:30		Options reloaded from script.conf
+2020-09-23 20:08:30		Options reloaded from fset.conf
+2020-09-23 20:08:30		fifo: pipe closed
+2020-09-27 21:17:02		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-28 00:09:01		fifo: pipe closed
+2020-09-29 14:44:15		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-29 16:17:05		fifo: pipe closed
+2020-09-29 16:17:06		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-09-29 16:22:16		fifo: pipe closed
+2020-10-02 13:21:21		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-10-02 18:37:44		Options reloaded from sec.conf
+2020-10-02 18:37:44		Options reloaded from weechat.conf
+2020-10-02 18:37:44		Options reloaded from plugins.conf
+2020-10-02 18:37:44		Options reloaded from charset.conf
+2020-10-02 18:37:44		Options reloaded from logger.conf
+2020-10-02 18:37:44		Options reloaded from exec.conf
+2020-10-02 18:37:44		Options reloaded from trigger.conf
+2020-10-02 18:37:44		Options reloaded from alias.conf
+2020-10-02 18:37:44		Options reloaded from buflist.conf
+2020-10-02 18:37:44		Options reloaded from fifo.conf
+2020-10-02 18:37:44		Options reloaded from xfer.conf
+2020-10-02 18:37:44		Options reloaded from irc.conf
+2020-10-02 18:37:44		Options reloaded from relay.conf
+2020-10-02 18:37:44		Options reloaded from tcl.conf
+2020-10-02 18:37:44		Options reloaded from lua.conf
+2020-10-02 18:37:44		Options reloaded from python.conf
+2020-10-02 18:37:44		Options reloaded from guile.conf
+2020-10-02 18:37:44		Options reloaded from perl.conf
+2020-10-02 18:37:44		Options reloaded from script.conf
+2020-10-02 18:37:44		Options reloaded from fset.conf
+2020-10-02 18:37:44		fifo: pipe closed
+2020-10-03 15:18:14		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-10-03 19:18:19		Options reloaded from sec.conf
+2020-10-03 19:18:19		Options reloaded from weechat.conf
+2020-10-03 19:18:19		Options reloaded from plugins.conf
+2020-10-03 19:18:19		Options reloaded from charset.conf
+2020-10-03 19:18:19		Options reloaded from logger.conf
+2020-10-03 19:18:19		Options reloaded from exec.conf
+2020-10-03 19:18:19		Options reloaded from trigger.conf
+2020-10-03 19:18:19		Options reloaded from alias.conf
+2020-10-03 19:18:19		Options reloaded from buflist.conf
+2020-10-03 19:18:19		Options reloaded from fifo.conf
+2020-10-03 19:18:19		Options reloaded from xfer.conf
+2020-10-03 19:18:19		Options reloaded from irc.conf
+2020-10-03 19:18:19		Options reloaded from relay.conf
+2020-10-03 19:18:19		Options reloaded from tcl.conf
+2020-10-03 19:18:19		Options reloaded from lua.conf
+2020-10-03 19:18:19		Options reloaded from python.conf
+2020-10-03 19:18:19		Options reloaded from guile.conf
+2020-10-03 19:18:19		Options reloaded from perl.conf
+2020-10-03 19:18:19		Options reloaded from script.conf
+2020-10-03 19:18:19		Options reloaded from fset.conf
+2020-10-03 19:18:19		fifo: pipe closed
+2020-10-03 19:56:42		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-10-05 02:55:52		Options reloaded from sec.conf
+2020-10-05 02:55:52		Options reloaded from weechat.conf
+2020-10-05 02:55:52		Options reloaded from plugins.conf
+2020-10-05 02:55:52		Options reloaded from charset.conf
+2020-10-05 02:55:52		Options reloaded from logger.conf
+2020-10-05 02:55:52		Options reloaded from exec.conf
+2020-10-05 02:55:52		Options reloaded from trigger.conf
+2020-10-05 02:55:52		Options reloaded from alias.conf
+2020-10-05 02:55:52		Options reloaded from buflist.conf
+2020-10-05 02:55:52		Options reloaded from fifo.conf
+2020-10-05 02:55:52		Options reloaded from xfer.conf
+2020-10-05 02:55:52		Options reloaded from irc.conf
+2020-10-05 02:55:52		Options reloaded from relay.conf
+2020-10-05 02:55:52		Options reloaded from tcl.conf
+2020-10-05 02:55:52		Options reloaded from lua.conf
+2020-10-05 02:55:52		Options reloaded from python.conf
+2020-10-05 02:55:52		Options reloaded from guile.conf
+2020-10-05 02:55:52		Options reloaded from perl.conf
+2020-10-05 02:55:52		Options reloaded from script.conf
+2020-10-05 02:55:52		Options reloaded from fset.conf
+2020-10-05 02:55:52		fifo: pipe closed
+2020-10-08 11:06:44		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-10-08 11:11:35		fifo: pipe closed
+2020-10-12 10:24:54		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-10-12 10:57:26		Options reloaded from sec.conf
+2020-10-12 10:57:26		Options reloaded from weechat.conf
+2020-10-12 10:57:26		Options reloaded from plugins.conf
+2020-10-12 10:57:26		Options reloaded from charset.conf
+2020-10-12 10:57:26		Options reloaded from logger.conf
+2020-10-12 10:57:26		Options reloaded from exec.conf
+2020-10-12 10:57:26		Options reloaded from trigger.conf
+2020-10-12 10:57:26		Options reloaded from alias.conf
+2020-10-12 10:57:26		Options reloaded from buflist.conf
+2020-10-12 10:57:26		Options reloaded from fifo.conf
+2020-10-12 10:57:26		Options reloaded from xfer.conf
+2020-10-12 10:57:26		Options reloaded from irc.conf
+2020-10-12 10:57:26		Options reloaded from relay.conf
+2020-10-12 10:57:26		Options reloaded from tcl.conf
+2020-10-12 10:57:26		Options reloaded from lua.conf
+2020-10-12 10:57:26		Options reloaded from python.conf
+2020-10-12 10:57:26		Options reloaded from guile.conf
+2020-10-12 10:57:26		Options reloaded from perl.conf
+2020-10-12 10:57:26		Options reloaded from script.conf
+2020-10-12 10:57:26		Options reloaded from fset.conf
+2020-10-12 10:57:26		fifo: pipe closed
+2020-10-17 23:31:50		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-10-18 00:47:20		fifo: pipe closed
+2020-10-20 15:32:45		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-10-20 15:33:14		fifo: pipe closed
+2020-10-21 22:08:32		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-10-21 22:08:35	=!=	You can not write text in this buffer
+2020-10-21 22:08:38		fifo: pipe closed
